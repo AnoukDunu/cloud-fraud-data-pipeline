@@ -15,3 +15,6 @@ This project will also try to
 
 ## This project aims to be completed within a week (18th July 2026)
 But I will probably miss the deadline
+
+### Reference Articles
+https://medium.com/@adithyavedhamani/building-a-real-time-fraud-detection-pipeline-with-gcp-pub-sub-and-apache-beam-636311df8d44
